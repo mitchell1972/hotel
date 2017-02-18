@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.igor-suhorukov:chromedriver:2.241" type="repository">
+    <properties maven-id="com.github.igor-suhorukov:chromedriver:2.24" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/igor-suhorukov/chromedriver/2.24/chromedriver-2.24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

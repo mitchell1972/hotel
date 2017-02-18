@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="hotel" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="hotel" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Chrome" />
+      <excludeFolder url="file://$MODULE_DIR$/../../build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.slf4j:slf4j-log4j13:1.0" level="project" />
+    <orderEntry type="library" name="com.github.mkolisnyk:cucumber-reports:1.0.7" level="project" />
+    <orderEntry type="library" name="org.seleniumhq.selenium:selenium-server:2.45.0" level="project" />
+    <orderEntry type="library" name="KotlinJavaRuntime (2)" level="project" />
+    <orderEntry type="library" name="com.daveayan:gherkinsalad.cucumber:2.5" level="project" />
+    <orderEntry type="library" name="org.seleniumhq.webdriver:webdriver-selenium:0.9.7376" level="project" />
+    <orderEntry type="library" name="org.seleniumhq.selenium:selenium-java:2.8.0" level="project" />
+    <orderEntry type="library" name="com.github.cchacin:cucumber-common-steps:0.2.11" level="project" />
+    <orderEntry type="library" name="org.seleniumhq.selenium:selenium-chrome-driver:3.0.11" level="project" />
+    <orderEntry type="library" name="biz.enef:slogging-slf4j_2.12:0.5.2" level="project" />
+    <orderEntry type="library" name="com.github.igor-suhorukov:chromedriver:2.241" level="project" />
+  </component>
+</module>
