@@ -12,8 +12,4 @@ Feature: This feature simulates the creation of a new hotel entry
       | Tel     | 0207665432                        |
       | Email   | novotel@novotel.com               |
     Then the page is updated with the following
-      | Hilton                            |
-      | 23 Penrith Close, Bromley BR4 5YT |
-      | Novotel Group                     |
-      | 0207665432                        |
-      | novotel@novotel.com               |
+      | Hilton |
